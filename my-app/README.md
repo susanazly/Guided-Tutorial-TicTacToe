@@ -1,3 +1,10 @@
+Tic Tac Toe React Exercise 
+Building a tic tac toe game interactive 
+This project uses both css and js and react components. 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
